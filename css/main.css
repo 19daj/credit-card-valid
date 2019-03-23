@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  color:#082fdb;
+}
+
+h2 {
+  text-align: center;
+  color: #0883db;
+}
+
+h3 {
+  text-align: center;
+  color: #01a836;
+}
+
+img {
+  position: absolute;
+  right: 500px;
+}
